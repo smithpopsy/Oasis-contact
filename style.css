@@ -41,3 +41,149 @@
 }
 
 
+.div2{
+    /* border: 2px solid green; */
+}
+
+.plus{
+    background-color: #EB4600;
+    color: white;
+    width: 33px;
+    margin-left: 590px;
+    margin-bottom: 50px;
+    border-radius: 5000px;
+    /* padding:2px 1px 2px 1px; */
+    margin-bottom: -16px;
+    transform: rotate(-4.3deg);
+    font-size: 27px; 
+    text-align: center;
+    
+   
+}
+
+.contact{
+    font-family:Helvetica;
+    font-size: 44px;
+    height: 100px;
+    font-weight: 700px;
+    text-align: center;
+    margin-bottom: -40px;
+}
+
+.form{
+    margin-top: 13px;
+    text-align: center;
+    
+}
+
+#plus1{
+    margin-left: 200px;
+    
+   
+}
+
+.input1{
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+   
+  }
+
+  .input2{
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+  
+  }
+
+  .input3{
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+   
+  }
+
+  .input4{
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+  }
+
+  .input5{
+    width: 100%;
+    height: 160px;
+    border-radius: 10px;
+    
+   
+  }
+
+
+
+  .tag{
+    color:  #6E7075;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 0.4px;
+    margin-bottom: 5px;
+    line-height: 30px;
+  }
+
+  .left{
+    /* border: 2px solid green; */
+    width: 65%;
+    
+  }
+  .leftchild{
+    /* border: 2px solid red; */
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .first{
+    width: 100%;
+  }
+
+  .second{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid yellow; */
+    
+    
+  }
+
+  .second1{
+    /* border: 2px solid pink; */
+    width: 55%;
+
+  }
+
+  .second2{
+    /* border: 2px solid red; */
+    width: 45%;
+  }
+
+  .third{
+   /* border: 2px solid black; */
+  }
+
+  .fourth{
+    /* border: 2px solid purple; */
+  }
+
+.left{
+    border-right: 1px solid #000000;
+}
+
+.submit{
+    color: white;
+    background-color:  #EB4600;
+    width: 90px;
+    border-radius: 6px;
+    padding: 12px 40px;
+    text-align: center;
+    margin-top: 50px;
+    /* display: flex; */
+    margin-left: 670px;
+}
+
