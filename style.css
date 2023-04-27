@@ -178,12 +178,14 @@
 .submit{
     color: white;
     background-color:  #EB4600;
-    width: 90px;
-    border-radius: 6px;
+    display: flex;
+    justify-content: space-evenly;
     padding: 12px 40px;
-    text-align: center;
     margin-top: 50px;
-    /* display: flex; */
-    margin-left: 670px;
+    width: 15%;
+    margin-left: 70%;
+    border-radius: 10px;
+    
+   
 }
 
