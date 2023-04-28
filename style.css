@@ -6,6 +6,7 @@
 
 }
 
+
 .container1{
     width: 70%;
     /* border: 2px solid black; */
@@ -15,6 +16,14 @@
     
 
 
+}
+
+.item1{
+    font-family: 'Inter', sans-serif;
+    color: #111111;
+    font-weight: 400;
+    font-size: 13px;
+    
 }
 
 .oasisimage{
@@ -61,15 +70,14 @@
    
 }
 
+
 .contact{
     font-family:Helvetica;
-    font-size: 47px;
-    height: 100px;
-    font-weight: 900px;
-    text-align: center;
-    margin-bottom: -40px;
-    color: #00084A;
     letter-spacing: -0.05em;
+    font-size: 45px;
+    font-weight: 550;
+    text-align:center;
+    color: #00084A;
 }
 
 .touch{
@@ -210,10 +218,28 @@
 .right{
     border: 2px solid green;
     display: flex;
+    justify-content: space-around;
     flex-direction: column;
+    gap: 2em;
+   
     width: 35%;
-    align-items: center;
+    margin-right: -40px;
     float: right;
-    margin-top: -500px;
+    margin-top: -650px;
     
+    
+}
+
+.contact1{
+    font-family:Helvetica;
+    letter-spacing: -0.05em;
+    font-size: 28px;
+    font-weight: 550;
+    text-align: start;
+    color: #00084A;
+    margin-bottom: 20px;
+}
+
+.mail1{
+    margin-top: -200px;
 }
