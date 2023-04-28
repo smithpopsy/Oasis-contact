@@ -153,7 +153,7 @@
   }
 
   .left{
-    /* border: 2px solid green; */
+    border: 2px solid green;
     width: 65%;
     
   }
@@ -161,7 +161,7 @@
 
 
   .leftchild{
-    /* border: 2px solid red; */
+    border: 2px solid red;
     width: 80%;
     margin: 0 auto;
   }
@@ -241,5 +241,49 @@
 }
 
 .mail1{
-    margin-top: -200px;
+    display: flex;
+    align-items: center;
+}
+
+.linkedln{
+    display: flex;
+    align-items: center;
+}
+
+.instagram{
+    display: flex;
+    align-items: center;
+}
+
+.twitter{
+    display: flex;
+    align-items: center;
+}
+
+.facebook{
+    display: flex;
+    align-items: center;
+}
+
+
+.fa-envelope{
+    color: red;
+    background-color: white;
+}
+
+
+.fa-linkedin{
+    color:#1DA1F2;
+}
+
+.fa-instagram{
+    color:  #C13584;
+}
+
+.fa-twitter{
+    color: #1DA1F2;
+}
+
+.fa-facebook{
+    color:#4267B2
 }
