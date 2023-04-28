@@ -63,17 +63,32 @@
 
 .contact{
     font-family:Helvetica;
-    font-size: 44px;
+    font-size: 47px;
     height: 100px;
-    font-weight: 700px;
+    font-weight: 900px;
     text-align: center;
     margin-bottom: -40px;
+    color: #00084A;
+    letter-spacing: -0.05em;
 }
 
-.form{
-    margin-top: 13px;
-    text-align: center;
+.touch{
+    font-family:Helvetica;
+    letter-spacing: -0.05em;
+    font-size: 30px;
+    font-weight: 550;
+    text-align: start;
+    color: #00084A;
     
+  }
+
+.form{
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;    
 }
 
 #plus1{
@@ -134,6 +149,9 @@
     width: 65%;
     
   }
+ 
+
+
   .leftchild{
     /* border: 2px solid red; */
     width: 80%;
@@ -183,9 +201,19 @@
     padding: 12px 40px;
     margin-top: 50px;
     width: 15%;
-    margin-left: 70%;
+    margin-left: 75%;
     border-radius: 10px;
     
    
 }
 
+.right{
+    border: 2px solid green;
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    align-items: center;
+    float: right;
+    margin-top: -500px;
+    
+}
