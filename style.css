@@ -266,25 +266,24 @@
 }
 
 
-.fa-envelope{
-    color: red;
-    background-color: white;
+img.insta1{
+    /* color: red; */
+    width: 8%;
+    margin-left: -4px;
 }
 
-
-.fa-linkedin{
-    color:#1DA1F2;
+img.linke{
+    width:6%;
 }
 
-.fa-instagram{
-    color:  #C13584;
+img.gmail{
+    width: 6%;
 }
 
-.fa-twitter{
-    color: #1DA1F2;
+ img.tweet{
+    width: 6%;
 }
 
-.fa-facebook{
-    color:#4267B2
+img.fb{
+    width: 6%;
 }
-
