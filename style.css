@@ -295,27 +295,29 @@ img.fb{
      
 }
 
+.updiv3{
+    background-color:#010422;
+    width: 100%;
+}
 
 .div3{
     display: flex;
     justify-content: space-around;
-    background-color:#010422;
-    width: 100%
-    ;
+    
 }
 
 .subdiv3{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 30%;
     
 }
 
 .list1{
-    border: 2px solid green ;
+    /* border: 2px solid green ; */
 }
 
 .list2{
-    border: 2px solid yellow ;
+    /* border: 2px solid yellow ; */
 }
 
 .oasisimage2{
@@ -335,7 +337,56 @@ img.fb{
     margin-top: 25px;
 }
 
-.list1{
-    color: #FFFFFF;
-    ;
+.h0{
+    color: white;
+    font-size: 20px;
+    font-family:Helvetica;
+    font-weight: 700;
+    letter-spacing: -0.05em;
+}
+
+.h1{
+    color: #6E7075;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.h2{
+    color:  #FF4D00;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.h3{
+    color: #6E7075;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.h4{
+    color: #6E7075;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.h5{
+    color: #6E7075;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.below{
+    border-top: 2px solid white;
+    margin-left: 130px;
+    margin-right: 130px ;
+}
+
+.white{
+    color: white;
+    margin-left: -5px;
 }
