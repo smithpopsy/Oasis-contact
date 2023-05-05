@@ -74,7 +74,7 @@
 .contact{
     font-family:Helvetica;
     letter-spacing: -0.05em;
-    font-size: 45px;
+    font-size: 3em;
     font-weight: 550;
     text-align:center;
     color: #00084A;
@@ -298,11 +298,13 @@ img.fb{
 .updiv3{
     background-color:#010422;
     width: 100%;
+    /* border: 10px solid green; */
 }
 
 .div3{
     display: flex;
     justify-content: space-around;
+    width: ;
     
 }
 
@@ -390,3 +392,68 @@ img.fb{
     color: white;
     margin-left: -5px;
 }
+
+
+
+@media only screen and (max-width: 600px){
+
+    .right{
+        display: none;
+
+    }
+    .left{
+        border-right: 0px solid black;
+        width: 100%;
+    }
+
+    .second{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .second1{
+        width: 100%;
+    }
+
+    .leftchild{
+        width: 90%;
+
+    }
+
+    .input2{
+        width: 100%;
+    }
+
+    .second2{
+        width: 100%;
+    }
+
+    .input3{
+        width: 100%;
+    }
+
+    .input5{
+        height: 40px;
+    }
+
+    .submit{
+        width: 90%;
+        margin-left: 0;
+        padding: 15px 30px;
+    }
+
+    .touch{
+        display: none;
+    }
+
+    .contact{
+        /* font-size: 3em; */
+    }
+
+
+
+
+
+}
+    
