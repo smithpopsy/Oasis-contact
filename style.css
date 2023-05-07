@@ -90,6 +90,15 @@
     
   }
 
+  .the{
+    color: rgba(255, 255, 255, 0.81);
+    padding-top: 50px;
+    margin-left: 10px;
+    font-family: 'Inter', sans-serif;
+    font-size:12px ;
+    
+  }
+
 .form{
     margin-top: 0px;
     text-align: center;
@@ -316,26 +325,34 @@ img.fb{
 
 .list1{
     /* border: 2px solid green ; */
+    padding-top: 50px;
 }
 
 .list2{
     /* border: 2px solid yellow ; */
+    padding-top: 50px;
 }
 
 .oasisimage2{
     margin-left: -25px;
     color: white;
+    height: -900px;
+    margin-top: -50px;
+   
 
 }
 
 .note{
     color: white;
     margin-top: 45px;
+    font-family: 'Inter', sans-serif;
+
+    
 }
 
 .icons2{
     color: white;
-    font-size: 40px;
+    font-size: 20px;
     margin-top: 25px;
 }
 
@@ -392,6 +409,12 @@ img.fb{
     color: white;
     margin-left: -5px;
 }
+
+.media{
+    display: none;
+}
+
+
 
 
 
@@ -451,6 +474,78 @@ img.fb{
         /* font-size: 3em; */
     }
 
+    .mediaicons{
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    .via{
+        color:  #6E7075;
+        font-size: 30px;
+        font-weight: 500;
+        font-family: 'Inter', sans-serif;
+        letter-spacing: 0.4px;
+        align-items: center;
+        margin-left: 180px;
+        padding-top: 50px;
+    }
+
+    img.insta1{
+        /* color: red; */
+        width: 70px;
+        margin-left: -4px;
+    }
+    
+    img.linke{
+        width:50px;
+    }
+    
+    img.gmail{
+        width: 50px;
+    }
+    
+     img.tweet{
+        width: 50px;
+    }
+    
+    img.fb{
+        width: 50px;
+    }
+    
+    .container1{
+        display: none;
+    }
+    
+    .burger{
+        margin-left: 270px;
+        padding-top: 10px;
+    }
+
+
+    .container1{
+        margin-left: -200px;
+    }
+
+    .list1{
+        margin-top: 330px;
+        margin-left: -360px;
+    }
+
+    .list2{
+        margin-top: 330px;
+       
+    }
+
+    .note{
+        /* font-stretch: ultra-expanded; */
+
+
+
+
+
+
+    
 
 
 
