@@ -277,10 +277,23 @@ img.fb{
 }
 
 @media only screen and (max-width: 600px){
+    .nav{
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .oasisimage{
+        margin-left: 5%;
+    }
 
     .container1{
         display: none;
         margin-left: -200px;
+    }
+
+    .burger{
+        display: flex;
+        margin-right: 1%;
     }
 
     .right{
